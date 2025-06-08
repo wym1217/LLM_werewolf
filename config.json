@@ -1,0 +1,9 @@
+{
+    "api_configs": [
+        {
+            "api_base": "https://api.toiotech.com/v1",
+            "model_name": "o4-mini",
+            "api_key": "输入自己的key"
+        }
+    ]
+}
